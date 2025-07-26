@@ -46,7 +46,6 @@
 
 ## 注意事項
 - 確保 GPU 環境可用以加速訓練與推論。
-- 若遇到任何問題，請參考 YOLOv12 官方文件或聯繫助教。
 
 ## 資源
 - [YOLOv12 官方文件](https://github.com/sunsmarterjie/yolov12)
