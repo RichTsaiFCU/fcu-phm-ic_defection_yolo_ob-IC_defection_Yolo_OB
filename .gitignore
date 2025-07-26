@@ -1,0 +1,9 @@
+# Ignore .pt files
+*.pt
+
+# Ignore images and related folders
+**/images/
+**/labels/
+**/train/
+**/valid/
+**/test/

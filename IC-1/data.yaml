@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['center', 'donut', 'edge_loc', 'edge_ring', 'loc', 'near_full', 'normal', 'scratch']
+
+roboflow:
+  workspace: fcu109
+  project: ic-7za0g-gfb6e
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fcu109/ic-7za0g-gfb6e/dataset/1
